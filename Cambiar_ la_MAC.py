@@ -1,3 +1,6 @@
+#Debes colocar como nombre de este archivo: main.py, por que de lo contrario no funcionaría; en el próximo video explico en más detalle.
+
+
 if __name__ == '__main__':
     interfase="eth0"
     nueva_MAC="22:11:33:44:55:14"
